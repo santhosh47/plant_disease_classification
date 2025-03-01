@@ -1,0 +1,6 @@
+Flask==2.2.3
+tensorflow==2.12.0
+numpy==1.23.5
+Pillow==9.4.0
+Werkzeug==2.2.3
+kaggle==1.5.12
