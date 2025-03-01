@@ -50,4 +50,5 @@ _Loss Function (Binary Crossentropy):_ Suitable for binary classification proble
   . Add more image preprocessing techniques.
 
 **Conclusion**
+
 This project provides a foundational system for plant disease detection. Further improvements can make the system more robust and scalable for agricultural use.
