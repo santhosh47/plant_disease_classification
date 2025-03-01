@@ -14,9 +14,11 @@ The Plant Disease Detection project uses machine learning to classify plant leaf
 6. You can select between a pretrained model and your custom trained one for prediction.
 
 **Use Case**
+
 This system helps farmers and researchers quickly identify plant diseases, reducing the time required for diagnosis and improving crop yield.
 
 **Model Architecture Explanation**
+
 The model is a Convolutional Neural Network (CNN) designed for binary image classification.
 
 _Conv2D Layers (32, 64 filters):_ These layers extract features from the input image by applying 3x3 filters.
